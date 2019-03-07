@@ -1,5 +1,19 @@
 <atlassian-ide-plugin>
   <project-configuration id="1">
-    <servers id="2" />
+    <servers id="2">
+      <bamboo id="3">
+        <server-id id="4">a222300a-e6df-439f-b488-ce1a1587ecef</server-id>
+        <name>Okaycool_1</name>
+        <url>http://localhost:6990/bamboo</url>
+        <shared>false</shared>
+        <use-favourites>false</use-favourites>
+        <show-branches>true</show-branches>
+        <my-branches-only>false</my-branches-only>
+        <bamboo2>true</bamboo2>
+        <plans id="5">
+          <plan id="6" key="TASK-TAS" grouped="0" />
+        </plans>
+      </bamboo>
+    </servers>
   </project-configuration>
 </atlassian-ide-plugin>

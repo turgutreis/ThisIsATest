@@ -35,7 +35,7 @@ public class ExampleCalc {
             TptApi remoteApi = (TptApi)registry.lookup(BINDING_NAME); // get TPT-API
             OpenResult openResult = remoteApi.openProject(TPT_FILE.getAbsoluteFile()); // open attached
             // tpt-File
-            Project project = openResult.project; // recieve the now open project
+            Project project = openResult.getProject(); // recieve the now open project
 
             RemoteCollection<ExecutionConfiguration> executionConfigurations =
                     project.getExecutionConfigurations();

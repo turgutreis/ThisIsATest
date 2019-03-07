@@ -64,7 +64,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/api/api.jar!/" />
+          <root url="jar://C:/Program Files/TPT-12/lib/api.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

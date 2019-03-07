@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<classpathentry exported="true" kind="lib" path="C:/Program Files/TPT-12/tptplugins/eclipse/plugins/com.piketec.tptcdtlauncher/plugins/com.piketec.tptcdtlauncher_1.0.0.201707250959.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/TPT-12/tptplugins/eclipse/plugins/com.piketec.tptgdbconnection/plugins/com.piketec.tptgdbconnection_1.1.1.201804231438.jar"/>
 	<classpathentry kind="src" output="target/classes" path="src/main/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
